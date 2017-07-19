@@ -1,0 +1,6 @@
+c:\users\kevin\documents\visual studio 2017\Projects\linqTutorial\linqTutorial\bin\Debug\linqTutorial.exe.config
+c:\users\kevin\documents\visual studio 2017\Projects\linqTutorial\linqTutorial\bin\Debug\linqTutorial.exe
+c:\users\kevin\documents\visual studio 2017\Projects\linqTutorial\linqTutorial\bin\Debug\linqTutorial.pdb
+c:\users\kevin\documents\visual studio 2017\Projects\linqTutorial\linqTutorial\obj\Debug\linqTutorial.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2017\Projects\linqTutorial\linqTutorial\obj\Debug\linqTutorial.exe
+c:\users\kevin\documents\visual studio 2017\Projects\linqTutorial\linqTutorial\obj\Debug\linqTutorial.pdb
