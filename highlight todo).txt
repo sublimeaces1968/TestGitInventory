@@ -1,0 +1,9 @@
+get items 
+
+assign items to a list/array/whatever
+
+add them to a drop down menu
+
+if getselecteditem  is in one of hte panels 
+
+highlight that panel
